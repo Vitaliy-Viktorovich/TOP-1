@@ -8,7 +8,7 @@ public class Main {
         short s = 52;
         long l = 14;
         char a = 120;
-        boolean c = i > b;
+        boolean c = true;
 
         int Sum = (int) (i+ d);          // сложение
         int difference = (int) (b - f); //Вычитание
