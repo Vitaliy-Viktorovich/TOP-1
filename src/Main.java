@@ -10,11 +10,11 @@ public class Main {
         char a = 120;
         boolean c = true;
 
-        int Sum = (int) (i+ d);          // сложение.
-        int difference = (int) (b - f); //Вычитание.
-        int product = (int) (s * l);    //умножение.
-        int quotient = a / b;          //Деление.
-        int remainder = b % s;        //Остаток от деления.
+        int Sum = (int) (i+ d);          // сложение
+        int difference = (int) (b - f); //Вычитание
+        int product = (int) (s * l);    //умножение
+        int quotient = a / b;          //Деление
+     //   int remainder = b % s;        //Остаток от деления
 
         System.out.println("сложение (double): " + Sum);
         System.out.println("Вычитание (double): " + difference);
