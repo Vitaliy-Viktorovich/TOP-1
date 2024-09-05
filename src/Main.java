@@ -14,7 +14,7 @@ public class Main {
         int difference = (int) (b - f); //Вычитание
         int product = (int) (s * l);    //умножение
         int quotient = a / b;          //Деление
-     //   int remainder = b % s;        //Остаток от деления
+        int remainder = b % s;        //Остаток от деления
 
         System.out.println("сложение (double): " + Sum);
         System.out.println("Вычитание (double): " + difference);
