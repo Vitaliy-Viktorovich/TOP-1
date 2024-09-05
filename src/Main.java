@@ -1,28 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-
-        byte countRunCycleForField; //объявление переменой
-        countRunCycleForField = 127; //инициализация переменой
-
-        byte countRunCycleForField2 = 122;
-        short myShort = 127;  // camel case
-        short my_short = 127; //snake case напримур SQL
-
-        int myInt = 2_000_000_000;
-        long myLong = 3_000_000_000L;
-
-        float myFloat = 3.0f;
-        double myDouble = 3.0;
-
-        char myChar = 'a';
-
-        boolean myBoolean = false;
-
-
-
-
-
         int i = 100;
         double d = 28.3;
         byte b =60;
